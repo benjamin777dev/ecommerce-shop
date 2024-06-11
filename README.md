@@ -19,13 +19,9 @@
 > How to install
 
 ```
-$ git clone https://github.com/james-muriithi/e-shop.git
+$ git clone https://github.com/kamil-lm/ecommerce-shop.git
 $ npm install
 $ npm start
 ```
 
 > Then in your browser go to [http://localhost:8000/](http://localhost:8000/)
-
-# Licence
-
-[0BSD](LICENSE)
